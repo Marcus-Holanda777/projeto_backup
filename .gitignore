@@ -1,0 +1,10 @@
+# arquivos do excel
+*.xlsx
+~$.*
+
+# pasta
+__pycache__/
+
+# arquivo sqlite
+*.sqlite3
+*.db
